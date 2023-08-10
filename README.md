@@ -1,1 +1,1 @@
-This project is a report on marketing analysis of a cloting store and is represented by steel_data.
+ This project involves a report on the marketing analysis of a clothing store and is represented by the term "steel_data."
